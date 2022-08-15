@@ -10,5 +10,5 @@
   ##
   
 <div>
-  <a href="https://br.linkedin.com/in/%C3%ADtalo-souza-61213bb9?trk=pub-pbmap" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ítalo-souza-61213bb9" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>

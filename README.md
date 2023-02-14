@@ -1,4 +1,4 @@
-## Olá! Bem vindo a meu perfil! me chamo Ítalo e atualmente sou um juninho em Dev. Front end! 
+## Olá! Bem vindo a meu perfil!
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RagnaReal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
